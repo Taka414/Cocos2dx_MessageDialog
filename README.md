@@ -6,4 +6,4 @@ Cocos2d-x 3.14.1でRPG風の文字送り機能を実装してみました。
 
 解説はこちら
 
-http://takachan.hatenablog.com/entry/2017/09/05/223734
+https://takap-tech.com/entry/2017/09/05/223734
